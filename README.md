@@ -1,2 +1,3 @@
-# Predictive-Modeling
-Predictive modeling of ADHD patients
+### <ADHD의 부주의/충동성 예측 모델>
+
+#### 프로젝트 소개
