@@ -1,4 +1,6 @@
 # ADHD의 부주의/충동성 예측 모델  
+**프로젝트 상세 소개:** [포트폴리오 링크](https://drive.google.com/file/d/1WE2KaVW89SnjrjfuAqQkS_wPueiEPqsC/view?usp=drive_link)   
+<br>
 
 # 프로젝트 개요
 현상 및 배경) ADHD를 포함한 정신과 질환들은 동일한 진단을 받은 환자군 내에서도 증상이 개별적으로 다르게 나타나 정확한 치료를 
@@ -8,8 +10,6 @@
     분석 방향 설계) ADHD를 하나의 질환(범주)로 보기보다는 개인별 특정 증상에 집중하고 개인차를 반영한 예측모델을 구축.
       결과) ADHD의 주요 증상(부주의, 충동성)에 대해 각각 유의미한 예측모델을 구축. 범주적 접근이 아닌 세부 증상을 살펴보는 것의 
       가능성을 입증. 
-
-**프로젝트 상세 소개:** [포트폴리오 링크](https://drive.google.com/file/d/1WE2KaVW89SnjrjfuAqQkS_wPueiEPqsC/view?usp=drive_link)
 <br><br>
 
 # 연구배경  
