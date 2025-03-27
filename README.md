@@ -32,7 +32,7 @@ ADHD 환자의 뇌 영역을 정상 대조군과 비교하여 이상을 보이�
 - 임상검사(K-ARS: ADHD 평가 척도)
 <img width="407" img height="500" alt="image" src="https://github.com/user-attachments/assets/d3e142d8-bd2c-4770-b073-201eec831311" />
 
-<br>
+<br><br>
 
 # 분석 방법  
 MATLAB을 사용하여 크게 1.변수선택(feature selection), 2.모델구축(model construction), 3.모델검증(model validation)의 단계를 통해 예측 모델을 구축함.
