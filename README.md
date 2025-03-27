@@ -26,9 +26,11 @@ ADHD 환자의 뇌 영역을 정상 대조군과 비교하여 이상을 보이�
 
 * 뇌영상 데이터 시각화 결과물 
 <img width="221" alt="image" src="https://github.com/user-attachments/assets/c0b20266-e875-419d-9806-03913238e356" />
+<br>  
+<br>
 
 - 임상검사(K-ARS: ADHD 평가 척도)
-<img width="277" alt="image" src="https://github.com/user-attachments/assets/d3e142d8-bd2c-4770-b073-201eec831311" />
+<img width="407" img height="500" alt="image" src="https://github.com/user-attachments/assets/d3e142d8-bd2c-4770-b073-201eec831311" />
 
 <br>
 
