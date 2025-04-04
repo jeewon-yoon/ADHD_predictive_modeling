@@ -23,7 +23,8 @@ ADHD 환자의 뇌 영역을 정상 대조군과 비교하여 이상을 보이�
 # 데이터 전처리  
 * 뇌영상 이미지 전처리 Workflow
 <img width="708" alt="image" src="https://github.com/user-attachments/assets/08cdedca-695c-4cd8-9392-2f91e0c4d586" />
-<br>
+<br><br>   
+
 * 뇌영상 데이터 시각화 결과물 
 <img width="221" alt="image" src="https://github.com/user-attachments/assets/c0b20266-e875-419d-9806-03913238e356" />
 <br>  
