@@ -1,5 +1,5 @@
 # ADHD의 부주의/충동성 예측 모델  
-**프로젝트 상세 소개:** [포트폴리오 링크](https://drive.google.com/file/d/1WE2KaVW89SnjrjfuAqQkS_wPueiEPqsC/view?usp=drive_link)   
+**프로젝트 상세 소개:** [포트폴리오 링크](https://drive.google.com/file/d/1wfDV3h03WJOia4DNZccgT79VSsUSB3vt/view?usp=drive_link)   
 <br>
 
 # 프로젝트 개요
